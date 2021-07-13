@@ -1,0 +1,11 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+
+    // triggered on file save
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+
+    "jupyter.jupyterServerType": "local",
+}
